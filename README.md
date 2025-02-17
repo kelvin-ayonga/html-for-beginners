@@ -3,6 +3,8 @@ Designed to build foundational skills progressively
 Duration: 4–6 weeks (3–5 hours/week)  
 Target Audience:  Absolute beginners with no prior coding experience.  
 
+- [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+
 This course balances theory with hands-on practice, ensuring learners gain confidence to build basic web pages and prepare for advanced front-end topics.
 
 ## Module 1: Introduction to HTML 
