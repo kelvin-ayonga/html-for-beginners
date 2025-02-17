@@ -7,7 +7,7 @@ Target Audience:  Absolute beginners with no prior coding experience.
 
 This course balances theory with hands-on practice, ensuring learners gain confidence to build basic web pages and prepare for advanced front-end topics.
 
-## Module 1: Introduction to HTML 
+## [Module 1: Introduction to HTML](/Module%201:%20Introduction%20to%20HTML.md) 
 Objective:  Understand HTML’s role in web development.  
 - Lesson 1: What is HTML?  
   - History of HTML.  
